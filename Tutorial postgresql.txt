@@ -1,0 +1,13 @@
+Baixe o instalador do postgresql versão 14.5 (https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
+Execute o instalador
+Dê next, após dê next e confirme o local de instalação
+Dê next novamente (fique atendo em deixar todos os componentes selecionados na instalação)
+Dê next novamente
+Digite uma senha e confirme a senha no campo abaixo (guarde essa senha para usarmos futuramente). Sugestão: admin
+Confirme a porta de acesso ao banco (padrão 5432) e dê next novamente.
+Dê next
+Dê next
+Dê next e aguarde a instalação.
+
+Leia mais sobre:
+https://www.devmedia.com.br/guia/tecnologia-postgresql/34328
